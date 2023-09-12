@@ -27,7 +27,7 @@ personas =[ [1,"Carlos",25], [2, "Tomas", 15], [3, "Mauricio", 36]  ]
 
 personas[1] [1] = "Pedro" #para reemplazar un elemento de la lista
 
-#print(personas[1]) #para implrimir un elemento de la lista
+print(personas[1]) #para implrimir un elemento de la lista
 #print(personas[1][1]) #para implrimir un elemento de un elemento de la lista
 
 
